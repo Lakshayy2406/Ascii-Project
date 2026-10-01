@@ -44,5 +44,5 @@ This project demonstrates Python functions, input validation, string processing,
 
 ## 👨‍💻 Author
 
-**Lakshay Vaishnav**  
+**Lakshay Sharma**  
 GitHub: [@Lakshayy2406](https://github.com/Lakshayy2406)
